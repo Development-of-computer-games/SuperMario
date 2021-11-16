@@ -21,7 +21,7 @@ When the player touches the fire, the current level is reloaded.
 When hitted theres a good mashroom popping out. When the player catches it, he gets bigger and jump faster for certain amount of time. <br>
 The Good Mashroom :
 <img src= "https://user-images.githubusercontent.com/57447482/141982241-5e546f6f-cf2f-46e6-9888-29be6f18fcd7.png"  width="50" height="50">
-### Moving Platforms \ bricks :
+### Moving Platforms and bricks :
 <img src= "https://user-images.githubusercontent.com/57447482/141982111-4a736bbe-6b77-4e26-aa31-3ef895524a1e.png"  width="100" height="100">
 Static bricks and bricks that are moving from start point to end point and help the player overcome obstacle.
 ### Coins : 
