@@ -33,6 +33,8 @@ Static bricks and bricks that are moving from start point to end point and help 
 ### Coins : 
 Can be recieved from 2 ways, hitting the eagle and collect the dropping coins, or collect the coins around the map.
 ### Diamond :
+![gem-3](https://user-images.githubusercontent.com/57447482/141985693-da39829a-2e76-4cdc-a285-174002cd63db.png)
+
 The diamond is the exit. When the player hits the diamond it takes him to the next level.
 ### Information about the game play :
 1.The game has physics forces , it means that when the player falls from high place - " he gets hurt " and his speed decreade for certain time , also the character image is fading. <br />
