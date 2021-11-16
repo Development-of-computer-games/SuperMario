@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - LeftWall
+  - RightWall
+  - AngryMashroom
+  - Spawner
+  - Block
+  - Tube
+  - Coin
+  - Fire
+  - Eagle
+  - Enemy
+  - Frog
+  - GoodMashroom
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ScoreField
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mashrooms
+    uniqueID: 1773863447
+    locked: 0
+  - name: Block
+    uniqueID: 1391964101
+    locked: 0
+  - name: Tube
+    uniqueID: 566720757
+    locked: 0
+  - name: Coin
+    uniqueID: 3270037715
+    locked: 0
+  - name: Frog
+    uniqueID: 809128659
+    locked: 0
+  - name: Fire
+    uniqueID: 697944191
+    locked: 0
+  - name: Laser
+    uniqueID: 1468413107
+    locked: 0
