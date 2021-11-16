@@ -1,7 +1,6 @@
 # SuperMario
 ### Super-Mario - the evolution! This game has 3 levels, with difficulty rising from level to level.
-### Our player is a little fox that needs to face obstacle along the way and earn the most points in each round!
-![player-idle-3](https://user-images.githubusercontent.com/57447482/141982440-dd28fcf6-04be-4adb-bb28-e073e22df3b0.png)
+### Our player is a little fox that needs to face obstacle along the way and earn the most points in each round!0
 ### Movement : 
 1. Arrow key left - walking left.
 2. Arrow key right - walking right.
@@ -16,14 +15,13 @@ Can be killed by the laser only, when it explodes there're coins that are droppi
 ### Fire : 
 When the player touches the fire, the current level is reloaded. 
 ### Question brick :
-<img src = "https://user-images.githubusercontent.com/57447482/141982190-b6cb4ae4-6648-4d47-8976-4c3c7a44f81f.png" width="100" height="100">
 When hitted theres a good mashroom popping out. When the player catches it, he gets bigger and jump faster for certain amount of time.
 ### Moving Platforms and bricks :
 Static bricks and bricks that are moving from start point to end point and help the player overcome obstacle.
+<\br>
 ### Coins : 
 Can be recieved from 2 ways, hitting the eagle and collect the dropping coins, or collect the coins around the map.
 ### Diamond :
-<img src = "https://user-images.githubusercontent.com/57447482/141982406-f1fcc076-3578-414b-972a-c666e6afca1f.png">
 The diamond is the exit. When the player hits the diamond it takes him to the next level.
 ### Information about the game play :
 1.The game has physics forces , it means that when the player falls from high place - " he gets hurt " and his speed decreade for certain time , also the character image is fading.
