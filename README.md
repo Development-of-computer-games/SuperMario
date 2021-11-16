@@ -15,7 +15,7 @@ our frog is jumping from left to right, the player needs to hit the frog in a sp
 Can be killed by the laser only, when it explodes there're coins that are dropping.
 ### Fire : 
 <img src = "https://user-images.githubusercontent.com/57447482/141982543-da04fef6-5ba5-46a5-ad19-bb8b7231a8e7.png" width="150" height="50">
-When the player touches the fire, the current level is reloaded.
+When the player touches the fire, the current level is reloaded. 
 ### Question brick :
 <img src = "https://user-images.githubusercontent.com/57447482/141982190-b6cb4ae4-6648-4d47-8976-4c3c7a44f81f.png" width="100" height="100">
 When hitted theres a good mashroom popping out. When the player catches it, he gets bigger and jump faster for certain amount of time.
