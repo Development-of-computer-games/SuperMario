@@ -14,15 +14,15 @@ our frog is jumping from left to right, the player needs to hit the frog in a sp
 ### Eagle : 
 Can be killed by the laser only, when it explodes there're coins that are dropping.
 ### Fire : 
-![koster](https://user-images.githubusercontent.com/57447482/141982543-da04fef6-5ba5-46a5-ad19-bb8b7231a8e7.png){:height="50%" width="50%"}
+![koster](https://user-images.githubusercontent.com/57447482/141982543-da04fef6-5ba5-46a5-ad19-bb8b7231a8e7.png){:height="70px" width="40px"}
 When the player touches the fire, the current level is reloaded.
 ### Question brick :
-![Question_Block](https://user-images.githubusercontent.com/57447482/141982190-b6cb4ae4-6648-4d47-8976-4c3c7a44f81f.png){:height="50%" width="50%"}
+![Question_Block](https://user-images.githubusercontent.com/57447482/141982190-b6cb4ae4-6648-4d47-8976-4c3c7a44f81f.png){:height="70px" width="40px"}
 When hitted theres a good mashroom popping out. When the player catches it, he gets bigger and jump faster for certain amount of time. <br>
 The Good Mashroom : <br>
-![goodMashrooms](https://user-images.githubusercontent.com/57447482/141982241-5e546f6f-cf2f-46e6-9888-29be6f18fcd7.png){:height="50%" width="50%"}
+![goodMashrooms](https://user-images.githubusercontent.com/57447482/141982241-5e546f6f-cf2f-46e6-9888-29be6f18fcd7.png){:height="70px" width="40px"}
 ### Moving Platforms \ bricks :
-![blocks](https://user-images.githubusercontent.com/57447482/141982111-4a736bbe-6b77-4e26-aa31-3ef895524a1e.png){:height="50%" width="50%"}
+![blocks](https://user-images.githubusercontent.com/57447482/141982111-4a736bbe-6b77-4e26-aa31-3ef895524a1e.png){:height="70px" width="40px"}
 Static bricks and bricks that are moving from start point to end point and help the player overcome obstacle.
 ### Coins : 
 Can be recieved from 2 ways, hitting the eagle and collect the dropping coins, or collect the coins around the map.
