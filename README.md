@@ -1,8 +1,8 @@
-# SuperMario
+# SuperMario - [Link to the game](https://sivannamma.itch.io/supermario)
+![level2](https://user-images.githubusercontent.com/57447482/141988547-16787fd3-f624-4a0a-a20c-dc9c9573ecfc.png)
 ### Super-Mario - the evolution! This game has 3 levels, with difficulty rising from level to level.
 ### Our player is a little fox that needs to face obstacle along the way and earn the most points in each round!
 ![player-idle-3](https://user-images.githubusercontent.com/57447482/141985616-f8ee377b-dc29-4a38-b198-032e59f30b3c.png)
-
 ### Movement : 
 1. Arrow key left - walking left.
 2. Arrow key right - walking right.
@@ -31,6 +31,8 @@ Static bricks and bricks that are moving from start point to end point and help 
 ![blocks](https://user-images.githubusercontent.com/57447482/141984897-ce9474f8-1f71-451e-a354-6316cf797ebb.png)
 <br />
 ### Coins : 
+![coins](https://user-images.githubusercontent.com/57447482/141988569-02564ab7-6855-4ad8-9940-fd839841060e.png)
+
 Can be recieved from 2 ways, hitting the eagle and collect the dropping coins, or collect the coins around the map.
 ### Diamond :
 ![gem-3](https://user-images.githubusercontent.com/57447482/141985693-da39829a-2e76-4cdc-a285-174002cd63db.png)
@@ -42,3 +44,5 @@ The diamond is the exit. When the player hits the diamond it takes him to the ne
 3. Good mashroom gives the user the ability to jump higher and in advanced the character gets bigger. <br />
 4. The player cannot jump while there is a current jump. <br />
 5. The player can move while jumping and adjusting the position. <br />
+![obstacle](https://user-images.githubusercontent.com/57447482/141988591-20fbfc62-faa0-46d6-a5b1-08ade1c314f2.png)
+
