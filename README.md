@@ -14,7 +14,7 @@ our frog is jumping from left to right, the player needs to hit the frog in a sp
 ### Eagle : 
 Can be killed by the laser only, when it explodes there're coins that are dropping.
 ### Fire : 
-![koster](https://user-images.githubusercontent.com/57447482/141982543-da04fef6-5ba5-46a5-ad19-bb8b7231a8e7.png){:height="70px" width="40px"}
+<img src = "https://user-images.githubusercontent.com/57447482/141982543-da04fef6-5ba5-46a5-ad19-bb8b7231a8e7.png" width="50" height="50">
 When the player touches the fire, the current level is reloaded.
 ### Question brick :
 ![Question_Block](https://user-images.githubusercontent.com/57447482/141982190-b6cb4ae4-6648-4d47-8976-4c3c7a44f81f.png){:height="70px" width="40px"}
